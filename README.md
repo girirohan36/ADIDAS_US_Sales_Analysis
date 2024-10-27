@@ -8,3 +8,6 @@ Key Objectives
 - Evaluate product performance for inventory and marketing decisions.
 - Develop informed pricing and margin strategies for improved profitability.
 - Provide actionable recommendations to optimize sales and profit.
+
+
+![image](https://github.com/user-attachments/assets/ac0ea7e8-9492-4312-8cc1-898da1e6729a)
